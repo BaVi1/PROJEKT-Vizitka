@@ -6,7 +6,7 @@ html { box-sizing: border-box; }
 body {
     font-family: 'Nunito', sans-serif;
     background-color: #b2bec3;
-    }
+}
 h1 {
     color: #d63031;
     font-weight: bold;
@@ -57,7 +57,13 @@ p {
 }
 .facebook {
     background-color: #3b5998;
-    }
+}
+.twitter:hover {
+    background-color: #0b7bc1;
+}
+.facebook:hover {
+    background-color: #2b406e;
+}
 /*
 BARVY:
 šedá na pozadí stránky:		 #b2bec3
